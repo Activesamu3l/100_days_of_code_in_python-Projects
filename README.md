@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Special thanks to Dr. Angela Yu for her "100 Days of Code in Python" course on Udemy. This course provided the foundation and inspiration that led to the development of this project.</p>
+<p align="left">Special thanks to <a href="https://x.com/yu_angela">Dr. Angela Yu</a> for her <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code in Python</a> course on Udemy. This course provided the foundation and inspiration that led to the development of this project.</p>
 
 ###
 
