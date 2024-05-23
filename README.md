@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left">•📧: immanuelsam003@outlook.com</p>
+<ul>
+  <li>📧: <a href="mailto:immanuelsam003@outlook.com">immanuelsam003@outlook.com</a></li>
+</ul>
 
 ###
 
