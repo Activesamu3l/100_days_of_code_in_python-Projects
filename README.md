@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Welcome to my Repository for Dr. Angela Yu's "100 Days of Code in Python" Course (Udemy). This collection showcases a selection of projects I completed throughout Dr. Angela Yu's "100 Days of Code in Python" course offered on Udemy. These projects demonstrate the development of my Python programming skills and understanding of key concepts.</p>
+<p align="left">Welcome to my Repository for Dr. Angela Yu's "100 Days of Code in Python" Course (Udemy). This collection showcases a selection of projects I completed throughout the course. These projects demonstrate the development of my Python programming skills and understanding of key concepts.</p>
 
 ###
 
