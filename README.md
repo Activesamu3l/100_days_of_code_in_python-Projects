@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">🔗: 100_days_of_code_in_python-Projects</h1>
+<h1 align="left">🔗<a href="https://github.com/Activesamu3l/100_days_of_code_in_python-Projects" style="text-decoration: none;">: 100_days_of_code_in_python-Projects</a></h1>
 
 ###
 
