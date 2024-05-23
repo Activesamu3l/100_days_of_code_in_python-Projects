@@ -24,6 +24,6 @@
 
 ###
 
-<p align="left">This project is licensed under the MIT License - see the LICENSE.txt file for details.</p>
+<p align="left">This project is licensed under the MIT License - see the <a href="https://github.com/Activesamu3l/100_days_of_code_in_python-Projects/blob/main/LICENSE">LICENSE.txt<a/> file for details.</p>
 
 ###
